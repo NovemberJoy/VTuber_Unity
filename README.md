@@ -1,4 +1,4 @@
-NOTE: Please do not try to use this yet. I have a lot to figure out before this fork will be functional, but maybe it'll be slightly better once I do.
+Only notable change in this fork is making the mouth tracking less aggressive. I needed it, otherwise the program assumed my mouth was open all the time even when it was closed. If you find it useful, I'm glad.
 
 # VTuber_Unity
 Use Unity 3D character and Python deep learning algorithms to stream as a VTuber!
