@@ -1,3 +1,5 @@
+NOTE: Please do not try to use this yet. I have a lot to figure out before this fork will be functional, but maybe it'll be slightly better once I do.
+
 # VTuber_Unity
 Use Unity 3D character and Python deep learning algorithms to stream as a VTuber!
 
